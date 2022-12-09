@@ -21,7 +21,7 @@
     "bg-vue-components": "^1.0.9",
     "cross-env": "^5.2.0",
     "element-ui": "^2.4.6",
-    "qs": "^6.5.1",
+    "qs": "^6.5.3",
     "vue": "^2.5.2",
     "vue-i18n": "^8.12.0",
     "vue-router": "^3.0.1",
